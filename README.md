@@ -1,6 +1,3 @@
- <div align="center">
-  <img src="./profile-banner.png" width="100%" alt="Kunal Datta — AI and Machine Learning Developer"/>
-
   <h2>⚡ AI & MACHINE LEARNING ENTHUSIAST ⚡</h2>
   <p><code>PYTHON</code> • <code>DATA SCIENCE</code> • <code>NLP</code> • <code>IoT</code></p>
   <p><i>Turning ideas into intelligent solutions.</i></p>
