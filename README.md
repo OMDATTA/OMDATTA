@@ -1,24 +1,19 @@
-<!-- NEON PROFILE BANNER -->
-<div align="center">
-  <img src="./profile-banner.png" width="100%" alt="Kunal Datta — AI and Machine Learning Developer Banner"/>
+ <div align="center">
+  <img src="./profile-banner.png" width="100%" alt="Kunal Datta — AI and Machine Learning Developer"/>
+
+  <h2>⚡ AI & MACHINE LEARNING ENTHUSIAST ⚡</h2>
+  <p><code>PYTHON</code> • <code>DATA SCIENCE</code> • <code>NLP</code> • <code>IoT</code></p>
+  <p><i>Turning ideas into intelligent solutions.</i></p>
 </div>
 
-<div align="center">
-
-### `AI` ⚡ `MACHINE LEARNING` ⚡ `DATA SCIENCE` ⚡ `NLP` ⚡ `IoT`
-
-*Turning ideas into intelligent solutions.*
-
-</div>
-
-<!-- NEON DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 
 ## 👨‍💻 About Me
 
-I'm a postgraduate student passionate about **Artificial Intelligence, Machine Learning, Python, Data Science, and IoT**. I enjoy building practical projects that combine intelligent software, predictive modelling, and real-world problem-solving.
+Hi, I'm **Kunal Datta** — a postgraduate student passionate about Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing, and the Internet of Things.
 
-<!-- NEON SKILL BADGES -->
+I enjoy building practical projects, exploring intelligent algorithms, and turning ideas into useful technology solutions.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/Machine_Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=9B5CFF"/>
@@ -27,67 +22,68 @@ I'm a postgraduate student passionate about **Artificial Intelligence, Machine L
   <img src="https://img.shields.io/badge/IoT-0B1020?style=for-the-badge&logo=espressif&logoColor=00F5FF"/>
 </p>
 
-<!-- NEON DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CFF,50:00F5FF,100:7B2CFF&height=3&section=header&text=&fontSize=0" width="100%"/>
 
 ## 🚀 Featured Projects
 
 | Project | Description | Status |
 |---|---|---|
-| 🎮 Python Guessing Game | Interactive game with validation and enhanced gameplay | Completed |
-| 📊 Student Performance Prediction | Data analysis and predictive modelling | Completed |
-| 🤖 Adaptive AI Tutor | Adaptive learning and question difficulty | In Progress |
-| 💬 Sentiment Analysis with Sarcasm Detection | NLP-based sentiment and sarcasm classification | In Progress |
-| 🐝 Queen Bee Cell Timing Prediction | ML, IoT, and soft computing research | In Progress |
-
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+| 🎮 Python Guessing Game | Interactive number-guessing game with input validation and enhanced gameplay. | Completed |
+| 📊 Student Performance Prediction | Data preprocessing, EDA, and predictive modelling. | Completed |
+| 🤖 Adaptive AI Tutor | Adaptive learning system that identifies weak concepts and adjusts question difficulty. | In Progress |
+| 💬 Sentiment Analysis with Sarcasm Detection | NLP-based sentiment classification and sarcasm detection. | In Progress |
+| 🐝 Queen Bee Cell Timing Prediction | Research-oriented project combining ML, IoT, and soft computing. | In Progress |
 
 ## ⚙️ Tech Stack
 
 - **Languages:** Python, C
 - **Machine Learning:** Scikit-learn, predictive modelling, model evaluation
-- **Data Science:** NumPy, Pandas, Matplotlib, EDA
-- **NLP:** Text processing, sentiment analysis, text classification
-- **IoT:** ESP32, MQTT, sensors, Wokwi
+- **Data Science:** NumPy, Pandas, Matplotlib, Exploratory Data Analysis
+- **NLP:** Text Processing, Sentiment Analysis, Text Classification
+- **IoT:** ESP32, MQTT, Sensors, Wokwi
 - **Tools:** Google Colab, Jupyter Notebook, Git, GitHub
 
-## 📈 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OMDATTA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMDATTA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=E6F1FF" alt="Most used languages"/>
+</div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=E6F1FF" alt="Most used programming languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMDATTA&theme=tokyonight&hide_border=true&background=0B1020&ring=00F5FF&fire=9B5CFF&currStreakLabel=00F5FF" alt="GitHub contribution streak"/>
 </p>
 
-<!-- NEON DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CFF,50:00F5FF,100:7B2CFF&height=3&section=header&text=&fontSize=0" width="100%"/>
 
 ## 🧠 Currently Learning
 
 - Advanced Python programming
 - Machine Learning and Deep Learning
-- NLP and Soft Computing
-- Fuzzy Logic and optimization
+- Natural Language Processing
+- Soft Computing and Fuzzy Logic
 - Data Structures and Algorithms
+- Model evaluation and optimization
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/OMDATTA">
-    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-  </a>
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-  </a>
-</p>
+## 🌐 Let's Connect
 
 <div align="center">
-
-**`BUILD • LEARN • INNOVATE`**
+  <a href="https://github.com/OMDATTA">
+    <img src="https://img.shields.io/badge/GitHub-OMDATTA-0B1020?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-datta-19bb91313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunal_Datta-0B1020?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=100&section=footer" width="100%"/>
 
-</div>
----
+<div align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, share suggestions, and connect with me to discuss technology and collaborative projects.
+### `BUILD • LEARN • INNOVATE`
+
+*Better code. Better solutions. A smarter tomorrow.* 🚀
+
+</div>
