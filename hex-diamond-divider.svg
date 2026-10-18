@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46" role="img" aria-label="Forest green, cream and gold honeycomb and diamond divider">
+  <rect width="1200" height="46" rx="9" fill="#f7f1df"/>
+  <path d="M0 23 H510 M690 23 H1200" stroke="#36724d" stroke-width="2"/>
+  <path d="M16 2 L34 12 L34 32 L16 42 L-2 32 L-2 12 Z M53 2 L71 12 L71 32 L53 42 L35 32 L35 12 Z" fill="#d8e6c5" stroke="#36724d" stroke-width="1.3"/>
+  <path d="M1184 2 L1202 12 L1202 32 L1184 42 L1166 32 L1166 12 Z M1147 2 L1165 12 L1165 32 L1147 42 L1129 32 L1129 12 Z" fill="#d8e6c5" stroke="#36724d" stroke-width="1.3"/>
+  <polygon points="600,5 618,23 600,41 582,23" fill="#e6c84c" stroke="#23563a" stroke-width="1.7"/>
+  <polygon points="600,12 611,23 600,34 589,23" fill="#f7f1df" stroke="#23563a" stroke-width="1"/>
+  <polygon points="546,16 553,23 546,30 539,23" fill="#36724d"/>
+  <polygon points="654,16 661,23 654,30 647,23" fill="#36724d"/>
+</svg>
