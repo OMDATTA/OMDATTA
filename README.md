@@ -1,87 +1,137 @@
- <div>
-   <h2>⚡ AI & MACHINE LEARNING ENTHUSIAST ⚡</h2>
-  <p><code>PYTHON</code> • <code>DATA SCIENCE</code> • <code>NLP</code> • <code>IoT</code></p>
-  <p><i>Turning ideas into intelligent solutions.</i></p>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-## 👨‍💻 About Me
-
-Hi, I'm **Kunal Datta** — a postgraduate student passionate about Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing, and the Internet of Things.
-
-I enjoy building practical projects, exploring intelligent algorithms, and turning ideas into useful technology solutions.
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=9B5CFF"/>
-  <img src="https://img.shields.io/badge/Data_Science-0B1020?style=for-the-badge&logo=pandas&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/NLP-0B1020?style=for-the-badge&logo=googlenlp&logoColor=FF4DDE"/>
-  <img src="https://img.shields.io/badge/IoT-0B1020?style=for-the-badge&logo=espressif&logoColor=00F5FF"/>
+  <img src="assets/profile-banner.svg" alt="Kunal Datta — AI, data and building" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CFF,50:00F5FF,100:7B2CFF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Status |
-|---|---|---|
-| 🎮 Python Guessing Game | Interactive number-guessing game with input validation and enhanced gameplay. | Completed |
-| 📊 Student Performance Prediction | Data preprocessing, EDA, and predictive modelling. | Completed |
-| 🤖 Adaptive AI Tutor | Adaptive learning system that identifies weak concepts and adjusts question difficulty. | In Progress |
-| 💬 Sentiment Analysis with Sarcasm Detection | NLP-based sentiment classification and sarcasm detection. | In Progress |
-| 🐝 Queen Bee Cell Timing Prediction | Research-oriented project combining ML, IoT, and soft computing. | In Progress |
-
-## ⚙️ Tech Stack
-
-- **Languages:** Python, C
-- **Machine Learning:** Scikit-learn, predictive modelling, model evaluation
-- **Data Science:** NumPy, Pandas, Matplotlib, Exploratory Data Analysis
-- **NLP:** Text Processing, Sentiment Analysis, Text Classification
-- **IoT:** ESP32, MQTT, Sensors, Wokwi
-- **Tools:** Google Colab, Jupyter Notebook, Git, GitHub
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OMDATTA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMDATTA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=E6F1FF" alt="Most used languages"/>
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMDATTA&theme=tokyonight&hide_border=true&background=0B1020&ring=00F5FF&fire=9B5CFF&currStreakLabel=00F5FF" alt="GitHub contribution streak"/>
+  <strong>Curious mind · Analytical approach · Builder's mindset</strong><br />
+  Learning by building practical projects with Python, AI, data and connected systems.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CFF,50:00F5FF,100:7B2CFF&height=3&section=header&text=&fontSize=0" width="100%"/>
+<p align="center">
+  <a href="https://github.com/OMDATTA"><img src="https://img.shields.io/badge/GitHub-OMDATTA-174a32?style=flat-square&logo=github&logoColor=f7f1df" alt="GitHub OMDATTA" /></a>
+  <a href="https://www.linkedin.com/in/kunal-datta-19bb91313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-c7dba8?style=flat-square&logo=linkedin&logoColor=173d2c" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-e9c94c?style=flat-square&logoColor=173d2c" alt="AI and Data" />
+  <img src="https://img.shields.io/badge/Approach-Learn%20by%20Building-315f42?style=flat-square&logoColor=f7f1df" alt="Learn by building" />
+</p>
 
-## 🧠 Currently Learning
+<p align="center">
+  <img src="assets/hex-diamond-divider.svg" alt="Honeycomb and diamond divider" width="100%" />
+</p>
 
-- Advanced Python programming
-- Machine Learning and Deep Learning
-- Natural Language Processing
-- Soft Computing and Fuzzy Logic
-- Data Structures and Algorithms
-- Model evaluation and optimization
+## ◈ About me
 
-## 🌐 Let's Connect
+Hi! I'm **Kunal**, an M.Tech learner focused on Computer Science and Artificial Intelligence. I enjoy taking concepts beyond notes and turning them into small, working projects. My current journey brings together **machine learning, data science, Python, IoT and web applications**.
 
-<div align="center">
-  <a href="https://github.com/OMDATTA">
-    <img src="https://img.shields.io/badge/GitHub-OMDATTA-0B1020?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kunal-datta-19bb91313/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kunal_Datta-0B1020?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-  </a>
-</div>
+I'm still growing as an engineer, so I value clear fundamentals, experiments, readable code and documenting what I learn just as much as the final result.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:00F5FF&height=100&section=footer" width="100%"/>
+## ⬡ What I enjoy
 
-<div align="center">
+- **Building practical projects** — turning an idea into a working prototype.
+- **Exploring AI and data** — finding patterns, testing models and understanding why they work.
+- **Connecting software with the real world** — sensors, ESP32, MQTT and IoT simulations.
+- **Learning through experimentation** — comparing approaches instead of assuming the first solution is best.
+- **Clean, thoughtful design** — interfaces and documentation that make technical work easier to understand.
 
-### `BUILD • LEARN • INNOVATE`
+<p align="center">
+  <img src="assets/hex-diamond-divider.svg" alt="Honeycomb and diamond divider" width="100%" />
+</p>
 
-*Better code. Better solutions. A smarter tomorrow.* 🚀
+## ◈ My toolkit
 
-</div>
+*Tools and technologies I use or am actively learning through projects.*
+
+### Programming & data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-174a32?style=flat-square&logo=python&logoColor=f7f1df" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-315f42?style=flat-square&logo=numpy&logoColor=f7f1df" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-527a4e?style=flat-square&logo=pandas&logoColor=ffffff" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-c7dba8?style=flat-square&logo=scikitlearn&logoColor=173d2c" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-e9c94c?style=flat-square&logoColor=173d2c" alt="Matplotlib" />
+</p>
+
+### AI, machine learning & soft computing
+
+<p>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-174a32?style=flat-square" alt="Supervised learning" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-315f42?style=flat-square" alt="Model evaluation" />
+  <img src="https://img.shields.io/badge/NLP-527a4e?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/Fuzzy%20Logic-c7dba8?style=flat-square&logoColor=173d2c" alt="Fuzzy logic" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-e9c94c?style=flat-square&logoColor=173d2c" alt="Feature engineering" />
+</p>
+
+### Web, tools & IoT
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-174a32?style=flat-square&logo=html5&logoColor=f7f1df" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-315f42?style=flat-square&logo=css3&logoColor=f7f1df" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-e9c94c?style=flat-square&logo=javascript&logoColor=173d2c" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Streamlit-c7dba8?style=flat-square&logo=streamlit&logoColor=173d2c" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-527a4e?style=flat-square&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-174a32?style=flat-square&logo=github&logoColor=f7f1df" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/Google%20Colab-e9c94c?style=flat-square&logo=googlecolab&logoColor=173d2c" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/ESP32%20%7C%20MQTT-c7dba8?style=flat-square&logo=espressif&logoColor=173d2c" alt="ESP32 and MQTT" />
+</p>
+
+## ⬡ What I'm learning and working with
+
+| Area | Topics I'm exploring |
+|---|---|
+| **Machine learning** | Regression, classification, model comparison, validation and feature engineering |
+| **Data science** | Data cleaning, exploratory analysis, visualisation and turning results into useful insights |
+| **NLP & research tools** | Text processing, document search, similarity and extractive summarisation |
+| **IoT & soft computing** | ESP32, MQTT, sensor data, fuzzy logic and prediction workflows |
+| **Application building** | Python apps, browser interfaces, APIs, GitHub workflows and deployment fundamentals |
+
+<p align="center">
+  <img src="assets/hex-diamond-divider.svg" alt="Honeycomb and diamond divider" width="100%" />
+</p>
+
+## ◈ Selected projects
+
+### 01 · Research Paper Intelligence Assistant
+A tool for extracting information from PDF research papers, searching for relevant passages, creating extractive summaries and exploring document-level insights.
+
+**Focus:** Python · NLP · Information retrieval · Data analysis
+
+### 02 · Student Performance Prediction
+A machine-learning project comparing regression models to estimate final student grades from selected academic and attendance features.
+
+**Focus:** Pandas · scikit-learn · Regression · Model evaluation
+
+### 03 · Adaptive AI Tutor
+An adaptive learning prototype that uses question difficulty, response similarity and mastery updates to shape a learner's practice session.
+
+**Focus:** Python · Embeddings · Adaptive learning · Learning analytics
+
+### 04 · SmartRain AI
+An IoT/ML concept combining ESP32 telemetry, MQTT, rain prediction and fuzzy-logic ideas into a connected workflow.
+
+**Focus:** ESP32 · MQTT · Machine learning · Soft computing
+
+### 05 · Queen Bee Cell Timing Research
+A research-oriented project exploring how machine learning, IoT sensor data and soft computing might help study the timing of queen-bee cell development.
+
+**Focus:** Applied ML · Sensor data · Research · Fuzzy logic
+
+> Projects evolve as I learn. I aim to keep improving the code, testing assumptions and documenting the trade-offs behind each implementation.
+
+## ◈ How I like to work
+
+`Understand the problem` → `Explore the data` → `Build a baseline` → `Evaluate` → `Improve` → `Document and share`
+
+I try to make projects **useful, explainable and reproducible** rather than adding complexity just for the sake of it.
+
+## ◈ Find me around the web
+
+- **GitHub:** [@OMDATTA](https://github.com/OMDATTA)
+- **LinkedIn:** [Kunal Datta](https://www.linkedin.com/in/kunal-datta-19bb91313/)
+
+<p align="center">
+  <img src="assets/hex-diamond-divider.svg" alt="Honeycomb and diamond divider" width="100%" />
+</p>
+
+<p align="center">
+  <em>✦ Stay curious. Build patiently. Make the useful thing. ✦</em><br />
+  <sub>Forest green for focus · Cream for clarity · Honey yellow for bright ideas</sub>
+</p>
